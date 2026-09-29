@@ -8,6 +8,9 @@
 4. Прочитайте одну карту из коллекции в локальную переменную, измените у копии Rank, и выведите оба значения, доказав, что коллекция не изменилась.
 5. Реализуйте разбор строки в Rank через Enum.TryParse — продемонстрируйте на корректном ("King") и некорректном ("Joker") значении.
 
+<img width="1104" height="259" alt="{CAF8BBCE-3E59-4390-B530-EA8F86E9D703}" src="https://github.com/user-attachments/assets/ece0df93-f7f0-4144-a3f8-2fc05e0a21e2" />
+
+
 <img width="1040" height="955" alt="{94CE355B-8F0E-481E-AD61-90EA5648BD7C}" src="https://github.com/user-attachments/assets/aca367dd-69e3-4eac-bc09-a6ca76f6ddea" />
 <img width="764" height="901" alt="{07C329A1-4762-4306-B7C4-4DC07969481B}" src="https://github.com/user-attachments/assets/f007d57f-f0c4-47d4-88a0-34b8f5e5f577" />
 <img width="512" height="326" alt="{9ECFF72F-A0BF-45C3-B737-84164A870CCC}" src="https://github.com/user-attachments/assets/bdc807c8-7d8a-4cca-b9a4-ebb7f36cd069" />
